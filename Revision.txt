@@ -1,0 +1,15 @@
+// require() - is used to import any modules in files.  It is a commonJS module.
+//import - is a ES6 module
+//default export - we can export default export by any name we want from the file , it 
+is not like named export that we have to call only by its name . 
+
+//The createServer() method of http creates a new HTTP server and returns it.
+
+//nvm is a popular way to run Node.js. It allows you to easily switch the Node.js version, and install new versions to try and easily rollback 
+if something breaks. It is also very useful to test your code with old Node.js versions.
+
+//writeFileSync - It is a blocking code that means it executes line by line . But this is 
+not a good approach as JS runs asynchronously.
+
+//nodemon - it is used to reaload the server automatically without starting the server again.
+
